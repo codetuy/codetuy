@@ -14,7 +14,7 @@ I love to code during my free time ⚡, I have a huge attraction on 🔭 Space �
 
 - 👨‍💻 Working at [NOS SGPS]([https://communitylabs.com](https://www.linkedin.com/company/nos-sgps/mycompany/))
 
-- 🚀 I use daily: Angular, Sql, NodeJS, Bash, VS Code, Postman
+- 🚀 I use daily: UiPath, Angular, Sql, NodeJS, Bash, VS Code, Postman
 
 - ⚡️ Fun fact: I'm a huge fan of Tadej Pogacar 😄
 
