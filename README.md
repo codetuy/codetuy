@@ -12,7 +12,7 @@ I love to code during my free time ⚡, I have a huge attraction on 🔭 Space �
 
 - 🦔 Founder of many projects that were never completed
 
-- 👨‍💻 Working at [NOS SGPS]([https://communitylabs.com](https://www.linkedin.com/company/nos-sgps/mycompany/))
+- 👨‍💻 Working at [SONAE MC]([https://communitylabs.com](https://www.linkedin.com/company/nos-sgps/mycompany/))
 
 - 🚀 I use daily: UiPath, Angular, Sql, NodeJS, Bash, VS Code, Postman
 
