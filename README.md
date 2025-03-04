@@ -22,5 +22,4 @@ I love to code during my free time ⚡, I have a huge attraction on 🔭 Space �
 
 ## Contact
 - [Hélder Martins](https://www.linkedin.com/in/h%C3%A9lder-martins7/) on LinkedIn
-- [@helderf_7](https://www.instagram.com/helderf_7/) on Instagram
 - [@helderf_7](https://twitter.com/helderf_7) on X
