@@ -6,15 +6,13 @@
 
 ## Hey! 👋
 
-I'm Helder, a 27 years old developer from Portugal.
+I'm Helder, a 28 years old developer from Portugal.
 
-I love to code during my free time ⚡, I have a huge attraction on 🔭 Space 🔭 and I also love real and virtual racing 🚗💨
+I love to code during my free time ⚡, I have a huge attraction on 🔭 Space 🔭 and I also love cycling 💨
 
 - 🦔 Founder of many projects that were never completed
 
 - 👨‍💻 Working at [SONAE MC]([https://communitylabs.com](https://www.linkedin.com/company/nos-sgps/mycompany/))
-
-- 🚀 I use daily: UiPath, Angular, Sql, NodeJS, Bash, VS Code, Postman
 
 - ⚡️ Fun fact: I'm a huge fan of Tadej Pogacar 😄
 
